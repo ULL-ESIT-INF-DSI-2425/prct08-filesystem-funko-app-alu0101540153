@@ -1,0 +1,12 @@
+{
+  "id": "2",
+  "name": "Batman",
+  "description": "The Dark Knight",
+  "type": "Pop!",
+  "genre": "Películas y TV",
+  "franchise": "DC Comics",
+  "number": 2,
+  "isExclusive": false,
+  "specialFeatures": "Cabeza balancea",
+  "marketValue": 75
+}
