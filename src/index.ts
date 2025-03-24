@@ -74,3 +74,5 @@ console.log(fileManager.showFunkoInfo(user, '1')); // Mostrar Funko 1 actualizad
 console.log(chalk.blue('\n5. Eliminando un Funko...'));
 console.log(fileManager.listFunkos(user)); // Listar Funkos después de eliminar
 console.log(fileManager.removeFunko(user, '3')); // Intentar eliminar un Funko que no existe (debe dar error)
+
+

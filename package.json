@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "tsc-watch --onSuccess \"node dist/index.js\"",
     "funko": "tsc-watch --onSuccess \"node dist/index.js\"",
+    "modi1": "tsc-watch --onSuccess \"node dist/modi1/countOcurrences.js\"",
+    "modi2": "tsc-watch --onSuccess \"node dist/modi2/meteo.js\"",
     "e1": "tsc-watch --onSuccess \"node dist/ejercicio-1/pokemon.js\"",
     "e2": "tsc-watch --onSuccess \"node dist/ejercicio-2/artista.js\"",
     "doc": "typedoc",
